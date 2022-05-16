@@ -3,8 +3,6 @@ layout: default
 title: "Music!"
 description: "stream till you scream"
 ---
-<h1>Hello World</h1>
-
 <h1>{{ page.title }}</h1>
 <h2>{{ page.description }}</h2>
 
@@ -13,7 +11,15 @@ description: "stream till you scream"
 <script src="https://unpkg.com/webamp"></script>
 <script>
     const app = document.getElementById("app")
-    const webamp = new Webamp();
+    const webamp = new Webamp({
+  initialTracks: [{
+    metaData: {
+      artist: "John Van Deusen",
+      title: "Whatever Makes You Mine",
+    },
+    url: "assets/audio/wmym.mp3"
+  }],
+});
     webamp.renderWhenReady(app);
 </script>
 
