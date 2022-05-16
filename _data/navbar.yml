@@ -1,8 +1,8 @@
 - name: Home
   link: /
 - name: About
-  link: /about
+  link: /jvdsite/about
 - name: Music
-  link: /music
+  link: /jvdsite/music
 - name: TESTPAGE
-  link: /testpage
+  link: /jvdsite/testpage
