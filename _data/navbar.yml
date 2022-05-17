@@ -1,8 +1,13 @@
 - name: Home
   link: /jvdsite
-- name: About
+- name: Bio
   link: /jvdsite/about
-- name: Music
+- name: Listen!
   link: /jvdsite/music
-- name: TESTPAGE
-  link: /jvdsite/testpage
+- name: Bandcamp
+  link: "https://iamjohnvandeusen.bandcamp.com/"
+- name: Instagram
+  link: "https://www.instagram.com/jvdmusic/"
+- name: Facebook
+  link: "https://www.facebook.com/iamjohnvandeusen/"
+  
