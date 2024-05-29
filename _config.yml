@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: "https://jvdsite.github.io" #Your url here
+url: "https://fireworksordie.github.io/jvdsite" #Your url here
 baseurl: ""
 
 # variables
-name: "John Van Deusen's Homepage"
+name: "My Homepage"
 description: Your description here
 google_verification: null
 
