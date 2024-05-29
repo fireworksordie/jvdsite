@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: "https://fireworksordie.github.io/jvdsite" #Your url here
-baseurl: ""
+url: "https://fireworksordie.github.io/" #Your url here
+baseurl: "jvdsite"
 
 # variables
 name: "My Homepage"
