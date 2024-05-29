@@ -1,6 +1,0 @@
-url: "https://fireworksordie.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/jvdsite" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
-
-gems: ['jekyll-less']
-destination: ./docs
